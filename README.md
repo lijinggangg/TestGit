@@ -7,3 +7,5 @@ git练习demo
 
 
 test git commit -a  1010100
+
+commit without -a or add
